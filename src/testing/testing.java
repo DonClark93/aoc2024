@@ -10,6 +10,7 @@ public class testing {
 
     /* Class variables (fields)
     private int someVariable;
+    static String = "Name";
     public static final double SOME_CONSTANT = 3.14;
     */
     public static String name = "Don";
@@ -19,6 +20,11 @@ public class testing {
         someVariable = 0;
     }
     */
+
+    /*
+    Static methods can be called without creating objects
+    Public methods must be called by creating objects
+     */
 
 
     /* Methods
